@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+}
+.top {
+  background-color: blue;
+}
+
+h1 {
+  color:pink;
+  font-family:times;
+  background-color: gray;
+  border: 5px dotted red;
+  padding: 20px;
+}
+
+h2 {
+  color:purple;
+  background-color: gray;
+  border: 3px solid white;
+}
+p {
+  color:yellow;
+  background-color: gray;
+  border: 3px solid white;
+}
+img {
+  border: 6px solid fuchsia;
+  width:70%;
+  height:70%;
+  margin-left:100px;
+}
