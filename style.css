@@ -1,9 +1,6 @@
 body {
   background-color: black;
 }
-.top {
-  background-color: blue;
-}
 
 h1 {
   color:pink;
@@ -25,7 +22,7 @@ p {
 }
 img {
   border: 6px solid fuchsia;
-  width:55%;
-  height:55%;
+  width:40%;
+  height:40%;
   margin-left:100px;
 }
